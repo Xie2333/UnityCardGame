@@ -1,0 +1,6 @@
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\bin\Debug\MyServer.dll
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\bin\Debug\MyServer.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\obj\Debug\MyServer.csproj.AssemblyReference.cache
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\obj\Debug\MyServer.csproj.CoreCompileInputs.cache
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\obj\Debug\MyServer.dll
+C:\Users\Inori-233\source\repos\MyServer_01\MyServer\obj\Debug\MyServer.pdb

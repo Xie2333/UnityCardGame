@@ -1,0 +1,12 @@
+C:\Users\Inori-233\source\repos\MyServer\Protocol\bin\Debug\Protocol.dll
+C:\Users\Inori-233\source\repos\MyServer\Protocol\bin\Debug\Protocol.pdb
+C:\Users\Inori-233\source\repos\MyServer\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+C:\Users\Inori-233\source\repos\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Inori-233\source\repos\MyServer\Protocol\obj\Debug\Protocol.dll
+C:\Users\Inori-233\source\repos\MyServer\Protocol\obj\Debug\Protocol.pdb
+C:\Users\Inori-233\CardGame\Assets\scripts\Protocol.dll
+C:\Users\Inori-233\CardGame\Assets\scripts\Protocol.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+C:\Users\Inori-233\source\repos\MyServer_01\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Inori-233\source\repos\MyServer_01\Protocol\obj\Debug\Protocol.dll
+C:\Users\Inori-233\source\repos\MyServer_01\Protocol\obj\Debug\Protocol.pdb

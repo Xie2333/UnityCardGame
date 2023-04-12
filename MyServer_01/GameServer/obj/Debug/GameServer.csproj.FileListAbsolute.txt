@@ -1,0 +1,16 @@
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\GameServer.exe
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\MyServer.dll
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\MySql.Data.dll
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\Protocol.dll
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\MyServer.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\Protocol.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\bin\Debug\MySql.Data.xml
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.exe
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Inori-233\source\repos\MyServer_01\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
